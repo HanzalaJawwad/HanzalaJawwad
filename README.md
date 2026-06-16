@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI%2FML+Undergraduate+%7C+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Face+Recognition+Systems;%F0%9F%94%AC+Research+%7C+Data+Analysis+%7C+Model+Evaluation;%F0%9F%8F%86+Nexora+Hackathon+2026+Lead+Organizer;%E2%9C%85+ShadowFox+AI%2FML+Intern+%7C+Agnirva+Space+Intern)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI%2FML+Undergraduate+%7C+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Face+Recognition+Systems;%F0%9F%94%AC+Research+%7C+Data+Analysis+%7C+Model+Evaluation;%F0%9F%8F%86+Nexora+Hackathon+2026+Lead+Organizer;%E2%9C%85+ShadowFox+AI%2FML+Intern+%7C+Agnirva+Space+Intern)](https://github.com/HanzalaJawwad)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=3fb950&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=f78166&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=HanzalaJawwad&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/HanzalaJawwad?color=3fb950&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/HanzalaJawwad)
+[![GitHub Stars](https://img.shields.io/github/stars/HanzalaJawwad?color=f78166&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/HanzalaJawwad)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=400&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=220&lines=%24+whoami;%3E+Hanzala+Jawwad+%7C+AI%2FML+Student+%7C+Bengaluru+India;%24+cat+mission.txt;%3E+Building+real-world+AI+and+ML+solutions;%3E+Exploring+Computer+Vision%2C+NLP+and+Cybersecurity;%3E+Developing+ML+models+from+data+to+deployment;%3E+Leading+tech+events+and+student+innovation+communities;%24+echo+%22Learn.+Build.+Improve.+%F0%9F%9A%80%22)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=400&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=220&lines=%24+whoami;%3E+Hanzala+Jawwad+%7C+AI%2FML+Student+%7C+Bengaluru+India;%24+cat+mission.txt;%3E+Building+real-world+AI+and+ML+solutions;%3E+Exploring+Computer+Vision%2C+NLP+and+Cybersecurity;%3E+Developing+ML+models+from+data+to+deployment;%3E+Leading+tech+events+and+student+innovation+communities;%24+echo+%22Learn.+Build.+Improve.+%F0%9F%9A%80%22)](https://github.com/HanzalaJawwad)
 
 </div>
 
@@ -44,8 +44,8 @@
   "impact"   : "Led Nexora 36-hour Hackathon",
   "motto"    : "Learn. Build. Improve. 🚀"
 }
-</td> <td width="50%" valign="top">
 
+</td> <td width="50%" valign="top">
 > stack --current
 
 # Core weapons
@@ -58,9 +58,10 @@ Data Analysis ███████████░  SHARP ⚡
 Linux/Git     █████████░░░  SOLID 🛡️
 Research      ██████████░░  SOLID 🛡️
 </td> </tr> </table>
+
 🏢 EXPERIENCE
 <div align="center">
-
+#link
 </div>
 ╔════════════════════════════════════════════════════════════════════╗
 ║  🏆  LEAD ORGANIZER        │  Nexora Hackathon   │  Apr 2026     ║
@@ -71,6 +72,8 @@ Research      ██████████░░  SOLID 🛡️
 ╠════════════════════════════════════════════════════════════════════╣
 ║  📚  ORGANIZING MEMBER     │  AICTE FDP          │  2024         ║
 ╚════════════════════════════════════════════════════════════════════╝
+
+
 🛠️ TECH ARSENAL
 🤖 AI · ML · Deep Learning
 
@@ -122,11 +125,6 @@ Research      ██████████░░  SOLID 🛡️
 
 
 
-
-
-
-
-🚀 FEATURED PROJECTS
 ╔════════════════════════════════════════════════════════════════════╗
 ║  👁️  Smart Attendance System via Face Recognition                 ║
 ║      OpenCV + dlib + EAR-based focus tracking                     ║
@@ -137,6 +135,8 @@ Research      ██████████░░  SOLID 🛡️
 ║  🤖  ShadowFox Advanced Machine Learning Project                  ║
 ║      Data processing, model implementation and result analysis     ║
 ╚════════════════════════════════════════════════════════════════════╝
+
+
 🏆 ACHIEVEMENTS
 <div align="center">
 🏅 Achievement	🚀 Details
@@ -146,14 +146,16 @@ AICTE FDP	Organizing team member for faculty development program
 Aspire Leaders Program	Selected participant in global leadership initiative
 Hackathons	Participated in national-level hackathons
 </div>
-📊 GITHUB METRICS
-<div align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true&radius=8"/> <br/> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/> <br/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/> </div>
+
+
 🎯 IMPACT NUMBERS
 <div align="center">
 🏆 Hackathon Led	👥 Teams Managed	⏱ Duration	🤖 AI/ML Projects	🧠 Core Domains
 Nexora 2026	70+	36 Hours	3+	ML · CV · NLP
 </div>
+
 🎓 EDUCATION
+
 ╔════════════════════════════════════════════════════════════════════╗
 ║  🎓 B.E. Artificial Intelligence & Machine Learning               ║
 ║     HKBK College of Engineering, Bengaluru                        ║
@@ -163,6 +165,8 @@ Nexora 2026	70+	36 Hours	3+	ML · CV · NLP
 ║     Indian Academy Pre-University College, Bengaluru              ║
 ║     2019 → 2021                                                   ║
 ╚════════════════════════════════════════════════════════════════════╝
+
+
 🌐 FIND ME
 <div align="center">
 
@@ -172,4 +176,5 @@ Nexora 2026	70+	36 Hours	3+	ML · CV · NLP
 
 
 </div>
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=130&section=footer&text=%22Learn.+Build.+Improve.+%F0%9F%9A%80%22&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/> </div>

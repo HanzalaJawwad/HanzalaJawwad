@@ -44,3 +44,132 @@
   "impact"   : "Led Nexora 36-hour Hackathon",
   "motto"    : "Learn. Build. Improve. 🚀"
 }
+</td> <td width="50%" valign="top">
+
+> stack --current
+
+# Core weapons
+Python        ████████████  HOT 🔥
+Machine ML    ███████████░  SHARP ⚡
+Computer CV   ███████████░  SHARP ⚡
+NLP           ██████████░░  SOLID 🛡️
+Deep Learning ██████████░░  SOLID 🛡️
+Data Analysis ███████████░  SHARP ⚡
+Linux/Git     █████████░░░  SOLID 🛡️
+Research      ██████████░░  SOLID 🛡️
+</td> </tr> </table>
+🏢 EXPERIENCE
+<div align="center">
+
+</div>
+╔════════════════════════════════════════════════════════════════════╗
+║  🏆  LEAD ORGANIZER        │  Nexora Hackathon   │  Apr 2026     ║
+╠════════════════════════════════════════════════════════════════════╣
+║  🤖  AI/ML INTERN          │  ShadowFox          │  Sep 2025     ║
+╠════════════════════════════════════════════════════════════════════╣
+║  🚀  SPACE INDUSTRY INTERN │  Agnirva            │  Nov 2024-Jan 2025 ║
+╠════════════════════════════════════════════════════════════════════╣
+║  📚  ORGANIZING MEMBER     │  AICTE FDP          │  2024         ║
+╚════════════════════════════════════════════════════════════════════╝
+🛠️ TECH ARSENAL
+🤖 AI · ML · Deep Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 Data · Research
+
+
+
+
+
+
+
+
+
+
+💻 Programming · Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚙️ Platforms
+
+
+
+
+
+
+
+
+
+
+🚀 FEATURED PROJECTS
+╔════════════════════════════════════════════════════════════════════╗
+║  👁️  Smart Attendance System via Face Recognition                 ║
+║      OpenCV + dlib + EAR-based focus tracking                     ║
+╠════════════════════════════════════════════════════════════════════╣
+║  🛰️  Illegal Fishing Detection with MLP-LSTM                       ║
+║      AIS data analysis for vessel behavior classification         ║
+╠════════════════════════════════════════════════════════════════════╣
+║  🤖  ShadowFox Advanced Machine Learning Project                  ║
+║      Data processing, model implementation and result analysis     ║
+╚════════════════════════════════════════════════════════════════════╝
+🏆 ACHIEVEMENTS
+<div align="center">
+🏅 Achievement	🚀 Details
+First Prize	NVIDIA Jetson Nano Workshop for AI-based computer vision solution
+Lead Organizer	Nexora Hackathon 2026, 36-hour technical hackathon
+AICTE FDP	Organizing team member for faculty development program
+Aspire Leaders Program	Selected participant in global leadership initiative
+Hackathons	Participated in national-level hackathons
+</div>
+📊 GITHUB METRICS
+<div align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true&radius=8"/> <br/> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/> <br/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/> </div>
+🎯 IMPACT NUMBERS
+<div align="center">
+🏆 Hackathon Led	👥 Teams Managed	⏱ Duration	🤖 AI/ML Projects	🧠 Core Domains
+Nexora 2026	70+	36 Hours	3+	ML · CV · NLP
+</div>
+🎓 EDUCATION
+╔════════════════════════════════════════════════════════════════════╗
+║  🎓 B.E. Artificial Intelligence & Machine Learning               ║
+║     HKBK College of Engineering, Bengaluru                        ║
+║     2023 → Present                                                ║
+╠════════════════════════════════════════════════════════════════════╣
+║  📘 Pre-University PCMB                                           ║
+║     Indian Academy Pre-University College, Bengaluru              ║
+║     2019 → 2021                                                   ║
+╚════════════════════════════════════════════════════════════════════╝
+🌐 FIND ME
+<div align="center">
+
+
+
+
+
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=130&section=footer&text=%22Learn.+Build.+Improve.+%F0%9F%9A%80%22&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/> </div>

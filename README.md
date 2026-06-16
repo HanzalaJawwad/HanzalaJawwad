@@ -167,11 +167,23 @@ Research      ██████████░░  SOLID 🛡️
 
 ---
 
+## 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/HanzalaJawwad?achievement=pair-extraordinaire&tab=achievements)
+[![Pull Shark x3](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/HanzalaJawwad?achievement=pull-shark&tab=achievements)
+[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/HanzalaJawwad?achievement=quickdraw&tab=achievements)
+
+</div>
+
+---
+
 ## 🌐 FIND ME
 
 <div align="center">
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanzalajawwad))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanzalajawwad)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/HanzalaJawwad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-jawwad)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanzalaJawwad)

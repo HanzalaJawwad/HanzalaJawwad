@@ -11,8 +11,10 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HanzalaJawwad&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/HanzalaJawwad?color=3fb950&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/HanzalaJawwad)
-[![GitHub Stars](https://img.shields.io/github/stars/HanzalaJawwad?color=f78166&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/HanzalaJawwad)
+
+[![Followers](https://img.shields.io/github/followers/HanzalaJawwad?style=for-the-badge)](https://github.com/HanzalaJawwad?tab=followers)
+
+[![GitHub Stars](https://img.shields.io/badge/TOTAL%20STARS-View%20Repos-f78166?style=for-the-badge&logo=github)](https://github.com/HanzalaJawwad?tab=stars)
 
 </div>
 
